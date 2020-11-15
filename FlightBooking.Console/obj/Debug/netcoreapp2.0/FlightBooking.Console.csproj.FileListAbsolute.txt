@@ -1,0 +1,15 @@
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\bin\Debug\netcoreapp2.0\FlightBooking.Console.deps.json
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\bin\Debug\netcoreapp2.0\FlightBooking.Console.runtimeconfig.json
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\bin\Debug\netcoreapp2.0\FlightBooking.Console.runtimeconfig.dev.json
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\bin\Debug\netcoreapp2.0\FlightBooking.Console.dll
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\bin\Debug\netcoreapp2.0\FlightBooking.Console.pdb
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\bin\Debug\netcoreapp2.0\FlightBooking.Core.dll
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\bin\Debug\netcoreapp2.0\FlightBooking.Core.pdb
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.csprojAssemblyReference.cache
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.AssemblyInfoInputs.cache
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.AssemblyInfo.cs
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.csproj.CoreCompileInputs.cache
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.csproj.CopyComplete
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.dll
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.pdb
+C:\Users\vikia\Documents\Anand\Resume\capitalontap\FlightBookingProblem\FlightBooking.Console\obj\Debug\netcoreapp2.0\FlightBooking.Console.genruntimeconfig.cache
